@@ -1,0 +1,2 @@
+accuracy,balanced_accuracy,precision_macro,recall_macro,f1_macro,test_samples,held_out_subject
+0.4734042553191489,0.4734042553191489,0.3541278708876474,0.4734042553191489,0.338098794409474,188,1
